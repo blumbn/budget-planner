@@ -11,7 +11,7 @@ npm install
 1. npm run serve
    a. This compiles and hot-reloads for development
 2. npm run mock-api
-   a. This starts json-server API mocking for reading/writing data in JSON file
+   a. This starts json-server API mocking for reading/writing data in JSON file (runs on localhost:3000)
 3. http://localhost:8080 to view the app
 ```
 
